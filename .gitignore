@@ -27,4 +27,4 @@ coverage
 *.sw?
 
 # Sub Converter Config
-subconverter.config.ts
+# subconverter.config.ts
