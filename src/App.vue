@@ -15,7 +15,7 @@ onMounted(async () => {
         icon: 'info',
         title: 'Uni Network',
         text: `Uni，致力于打造一个精品机场，独有隧道技术在保障系节点稳定的同时又能让保证三网用户在速度方面的体验，全节点流媒体解锁保证，有机场专属emby，含奈非、迪士尼资源 
-官网： fanmagic.top`
+官网： uninetwork.top`
     })
 })
 </script>
