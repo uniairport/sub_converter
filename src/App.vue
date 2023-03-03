@@ -27,7 +27,7 @@ onMounted(async () => {
     </header>
     <ParamsSets></ParamsSets>
     <footer id="footer">
-        2022 - present by <a href="https:/www.chinq.xyz">CQBerry</a>
+        2022 - present by <a href="https:/www.cqberry.me">CQBerry</a>
     </footer>
 </template>
 
